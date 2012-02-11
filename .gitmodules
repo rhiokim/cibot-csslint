@@ -1,0 +1,3 @@
+[submodule "modules/csslint"]
+	path = modules/csslint
+	url = https://github.com/stubbornella/csslint.git
